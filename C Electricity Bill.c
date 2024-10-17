@@ -13,7 +13,7 @@ int main() {
     scanf("%d",& customerID);
     printf("Ënter customerName:");
     scanf("%s",& customerName);
-    printf("Enter Units Consumed:");
+    printf("Enter unitsConsumed:");
     scanf("%d",& unitsConsumed);
 
     // charges per unit based on the units consumed
