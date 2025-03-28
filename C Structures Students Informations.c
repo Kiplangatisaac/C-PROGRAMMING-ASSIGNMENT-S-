@@ -22,7 +22,7 @@ student1.phone = 729050932;
 printf("Name: %s \n", student1.name);
 
 printf("Height: %f \n", student1.height);
-printf("Reg Number %s \n", student1.reg_no);
+printf("Reg Number: %s \n", student1.reg_no);
 printf("Email: %s \n", student1.email);
 printf("Phone number: %d \n", student1.phone);
 
